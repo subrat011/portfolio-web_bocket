@@ -1,0 +1,16 @@
+div{
+    height:300px;
+    width:500px;
+     background-color: rgb(222, 31, 31);
+     color:black;
+ }
+ p{
+    
+     background-color:yellow;
+     color:aqua;
+ }
+ h1{
+    
+    background-color:red;
+    color:aqua;
+}
